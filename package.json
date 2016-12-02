@@ -1,7 +1,7 @@
 {
   "name": "rails-translate",
   "main": "./lib/rails-translate",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A utility to aid in i18n.",
   "keywords": [
     "ruby on rails",
