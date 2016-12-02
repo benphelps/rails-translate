@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-t": "rails-translate:translate"
+    "cmd-alt-t": "rails-translate:translate"
   }
 }
