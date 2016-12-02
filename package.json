@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "rails-translate:translate"
   },
-  "repository": "https://github.com/atom/rails-translate",
+  "repository": "https://github.com/benphelps/rails-translate",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
