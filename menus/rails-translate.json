@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Translate Rails",
+        "command": "rails-translate:translate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rails-translate",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rails-translate:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

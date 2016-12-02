@@ -1,0 +1,19 @@
+{
+  "name": "rails-translate",
+  "main": "./lib/rails-translate",
+  "version": "1.0.0",
+  "description": "A utility to aid in i18n.",
+  "keywords": [
+    "ruby on rails", "rails", "translation", "i18n"
+  ],
+  "activationCommands": {
+    "atom-workspace": "rails-translate:translate"
+  },
+  "repository": "https://github.com/atom/rails-translate",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
